@@ -139,5 +139,5 @@
   </div>
 </div>
 <!-- Recomended Profiles End here -->
-
+<p>please remove this</p>
 <?php require_once "footer.php"; ?>
