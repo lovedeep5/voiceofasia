@@ -102,6 +102,9 @@ top: 3.4%;
      width: 65%;
    }
  }
+ .card-body{
+   padding: 1.0rem;
+ }
  /* Index mobile app page end */
  /*  app page */
 .welcome-logo div img {
@@ -140,12 +143,18 @@ top: 3.4%;
   transition: height 0s;
   overflow: hidden;
 }
+.service-icon{
+  height: 35px;
+}
 .icon{
   height: 25px;
 }
 .size-w-80{
   width: 80%;
   height: 100%;
+}
+.size-w-100{
+  width: 100%;
 }
 .fixed{
   position: fixed;
@@ -241,4 +250,13 @@ to {left:-90%}
   .page-content{
     margin-top: 110px;
   }
+}
+.card-text {
+    font-size: 12px;
+}
+.rating-star{
+  width: 15px;
+}
+.star-rating-box{
+  padding-bottom: 1rem;
 }
