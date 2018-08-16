@@ -246,6 +246,68 @@ to {left:-90%}
 .adv-banner{
   width: 100%;
 }
+
+body .jumbotron{
+	width:100%;
+	left:0;
+	margin:0 auto;
+	height:100%;
+	overflow:hidden;
+	margin-bottom:0px;
+	position:fixed;
+	background:none;
+	color:#dedddb;
+}
+@media(min-width:576px){
+	body .jumbotron{
+		width:70%;
+		position:relative;
+	}
+}
+@media(min-width:768px){
+	body .jumbotron{
+		width:50%;
+		position:relative;
+	}
+}
+@media(min-width:992px){
+	body .jumbotron{
+		width:40%;
+		position:relative;
+	}
+}
+.jumbotron .signinform{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	transform:scale(1.1);
+	background-size:cover;
+	background-position:0% 25%;
+	background-image:url(http://img01.deviantart.net/cb2e/i/2011/323/0/3/background_05_1600x1200_by_frostbo-d42mpk5.png);
+	background-repeat:no-repeat;
+	-webkit-filter:blur(5px);
+	-moz-filter:blur(5px);
+	-o-filter:blur(5px);
+	-ms-filter:blur(5px);
+	
+	z-index:-1;
+	
+}
+
+
+.facebook{
+	margin:2em 0em 0.2em 0em;
+	padding:0.4em 0em 0.4em 0em;
+	background-color:#3b5998;
+	color:white;
+}
+.twitter{
+	padding:0.4em 0em 0.4em 0em;
+	background-color:#55acee;
+	color:white;
+}
 @media only screen and (max-width:990px){
   .page-content{
     margin-top: 110px;
