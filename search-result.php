@@ -6,7 +6,7 @@
       <div class="col-12 pd-t-10">
         <h6>Mentors</h6>
       </div>
-      <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10">
+      <div class="col-12 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10">
         <div class="card" style="width: 100%;">
           <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
           <div class="card-body">
@@ -24,7 +24,7 @@
           </div>
         </div>
       </div>
-      <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10">
+      <div class="col-12 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10">
         <div class="card" style="width: 100%;">
           <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
           <div class="card-body">

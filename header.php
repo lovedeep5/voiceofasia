@@ -33,13 +33,16 @@
       </div>
       <div class="row mobile-searchbar d-block d-lg-none">
         <div class="col-12 pd-10">
-          <input type="text" class="form-control search-bar bg-light col-lg-10 col-12" placeholder="Search for mentors">
+          <form class="" action="search-result.php" method="post">
+            <input type="text" class="form-control search-bar bg-light col-lg-10 col-12" placeholder="Search for mentors">
+          </form>
+
         </div>
       </div>
     <div class="menu-sidebar size-w-80" id="mobile-menu">
       <div class="inner">
         <ul class="mobile-nav">
-          <?php require "nav-items.php" ?>
+          <?php require_once "nav-items.php" ?>
         </ul>
       </div>
     </div>
@@ -57,8 +60,8 @@
         <div class="col-7">
           <div class="desktop-menubar" id="desktop-menu">
             <div class="inner">
-              <ul class="desktop-nav float-right">
-                <?php require "nav-tems-mobile.php"; ?>
+              <ul class="desktop-nav">
+                <?php require_once "nav-tems-mobile.php"; ?>
               </ul>
             </div>
           </div>
