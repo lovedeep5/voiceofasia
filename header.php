@@ -42,7 +42,7 @@
     <div class="menu-sidebar size-w-80" id="mobile-menu">
       <div class="inner">
         <ul class="mobile-nav">
-          <?php require_once "nav-items.php" ?>
+          <?php require_once "nav-tems-mobile.php" ?>
         </ul>
       </div>
     </div>
@@ -60,8 +60,8 @@
         <div class="col-7">
           <div class="desktop-menubar" id="desktop-menu">
             <div class="inner">
-              <ul class="desktop-nav">
-                <?php require_once "nav-tems-mobile.php"; ?>
+              <ul class="desktop-nav float-right">
+                <?php require "nav-items.php"; ?>
               </ul>
             </div>
           </div>
