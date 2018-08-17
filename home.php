@@ -11,6 +11,8 @@
     <title>VOICE OF ASIA</title>
   </head>
   <body>
+	<?php include "welcome.php";?>
+  <!--
     <div class="container">
       <div class="row justify-content-md-center">
     <div class="col-xl-12 co12-lg-12 col-md-12 col-sm-12">
@@ -52,6 +54,7 @@
     </div>
   </div>
 </div>
+-->
     <?php require_once "includes/libraries.php"; ?>
   </body>
 </html>
