@@ -1,5 +1,7 @@
 
-
+body{
+  background-color: #00000008;
+}
 /* Index. mobile app page */
 @media only screen and (max-width: 576px) {
   .android-mobile iframe {

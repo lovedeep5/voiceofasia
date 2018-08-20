@@ -20,7 +20,7 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
             </div>
-            <a href="#" class="btn btn-primary size-w-100">View</a>
+            <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
             </div>
-            <a href="#" class="btn btn-primary size-w-100">View</a>
+            <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
             </div>
-            <a href="#" class="btn btn-primary size-w-100">View</a>
+            <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
             </div>
-            <a href="#" class="btn btn-primary size-w-100">View</a>
+            <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
           </div>
         </div>
       </div>

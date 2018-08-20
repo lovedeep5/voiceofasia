@@ -10,9 +10,9 @@
 </div>
 <!-- adv Ends here -->
 <!-- Services start here -->
-<div class="container-fluid">
+<div class="container">
   <div class="row pd-t-10">
-    <div class="col-12 border-bottom border-default">
+    <div class="col-12">
         <h6>Search mentors by</h6>
     </div>
   </div>
@@ -73,10 +73,10 @@
 <!-- Recomended Profiles start here -->
 <div class="container pd-20">
   <div class="row">
-    <div class="col-12 pd-t-10 border-bottom border-default">
+    <div class="col-12 pd-t-10">
       <h6>Recomended Mentors</h6>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -90,11 +90,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-3.jpg" alt="Card image cap">
         <div class="card-body">
@@ -108,11 +108,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/user-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -126,11 +126,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/user-1.jpg" alt="Card image cap">
         <div class="card-body">
@@ -144,11 +144,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -162,11 +162,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -180,7 +180,7 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
