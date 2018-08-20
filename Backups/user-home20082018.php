@@ -10,9 +10,9 @@
 </div>
 <!-- adv Ends here -->
 <!-- Services start here -->
-<div class="container-fluid">
+<div class="container">
   <div class="row pd-t-10">
-    <div class="col-12 border-bottom border-default">
+    <div class="col-12">
         <h6>Search mentors by</h6>
     </div>
   </div>
@@ -73,10 +73,10 @@
 <!-- Recomended Profiles start here -->
 <div class="container pd-20">
   <div class="row">
-    <div class="col-12 pd-t-10 border-bottom border-default">
+    <div class="col-12 pd-t-10">
       <h6>Recomended Mentors</h6>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -90,11 +90,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-3.jpg" alt="Card image cap">
         <div class="card-body">
@@ -108,11 +108,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/user-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -126,11 +126,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/user-1.jpg" alt="Card image cap">
         <div class="card-body">
@@ -144,11 +144,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -162,11 +162,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-xl-3 col-lg-3 col-md-3 col-sm-3 mt-10 nopadding">
+    <div class="col-6 col-xl-2 col-lg-2 col-md-2 col-sm-3 mt-10 nopadding">
       <div class="card" style="width: 100%;">
         <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
         <div class="card-body">
@@ -180,181 +180,11 @@
 <img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
 <img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
           </div>
-          <a href="user-profile.php" class="btn btn-primary size-w-100">View</a>
+          <a href="#" class="btn btn-primary size-w-100">View</a>
         </div>
       </div>
     </div>
   </div>
 </div>
 <!-- Recomended Profiles End here -->
-<div>
-	<div>
-		<a href="#" class="btn btn-secondary btn-block"><h5>Workshop</h5></a>
-	</div>
-	<div class="container">
-		<div class="row pd-t-10">
-			<div class="col-12">
-				<h6>Learning Mall</h6>
-			</div>
-		</div>
-	</div>
-	<div class="container-fluid">
-			<img src="images/adv-banner-3.png" class="img-fluid" width="100%"><img>
-	</div>
-	<div class="container-fluid">
-		<div class="row pd-t-10">
-			<div class="col-12 col-md-6 col-lg-4 pd-10">
-				<div class="media">
-					<div class="col-5 media-left">
-						<img class="img-fluid media-object" src="images/Untitled-2.jpg" alt="Card image cap">
-					</div>
-					<div class="col-7 media-body">
-							<h6 class="media-heading">Jhon doe</h6>
-							<p class="card-text" style="font-size:12px">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-						
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 pd-10">
-				<div class="media">
-					<div class="col-5 media-left">
-						<img class="img-fluid media-object" src="images/Untitled-2.jpg" alt="Card image cap">
-					</div>
-					<div class="col-7 media-body">
-							<h6 class="media-heading">Jhon doe</h6>
-							<p class="card-text" style="font-size:12px">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-						
-					</div>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-4 pd-10">
-				<div class="media">
-					<div class="col-5 media-left">
-						<img class="img-fluid media-object" src="images/Untitled-2.jpg" alt="Card image cap">
-					</div>
-					<div class="col-7 media-body">
-							<h6 class="media-heading">Jhon doe</h6>
-							<p class="card-text" style="font-size:12px">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div>
-		<a href="#" class="btn btn-secondary btn-block"><h5>Projects</h5></a>
-	</div>
-	<div class="container-fluid">
-			<img src="images/adv-banner-4.png" class="img-fluid" width="100%"><img>
-	</div>
-	<div class="container-fluid">
-	<div class="row">
-		<div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-         
-        </div>
-      </div>
-	  <div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          
-        </div>
-      </div>
-	  
-		<div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-         
-        </div>
-      </div>
-	  <div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-     
-        </div>
-      </div>
-	  </div>
-	</div>
-	<div>
-		<a href="#" class="btn btn-secondary btn-block"><h5>Digital contents</h5></a>
-	</div>
-	<div class="container-fluid">
-	<div class="row">
-		<div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <div class="col-12 star-rating-box">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
-          </div>
-		  <a href="#" style="float:right">$29.99</a>
-        </div>
-      </div>
-	  <div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <div class="col-12 star-rating-box">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
-          </div>
-		  <a href="#" style="float:right">$29.99</a>
-        </div>
-      </div>
-	  
-		<div class="card col-6 col-sm-3 col-md-2 pd-10" >
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-         <div class="col-12 star-rating-box">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
-          </div>
-		  <a href="#" style="float:right">$29.99</a>
-        </div>
-      </div>
-	  <div class="card col-6 col-sm-3 col-md-2 pd-10">
-        <img class="card-img-top" src="images/Untitled-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Jhon doe</h5>
-          <p class="card-text text-info"><b> Web Designer </b></p>
-          <div class="col-12 star-rating-box">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star.png" alt="rating-star" class="img-fluid rating-star">
-			<img src="images/star-dark.png" alt="rating-star" class="img-fluid rating-star">
-          </div>
-		  <a href="#" style="float:right">$29.99</a>
-        </div>
-      </div>
-	  </div>
-	</div>
-</div>
 <?php require_once "footer.php"; ?>
